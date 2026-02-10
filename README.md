@@ -41,6 +41,7 @@ npm install
 Create a .env.local file at the root of the project:
 
 NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT.supabase.co
+
 NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_ANON_PUBLIC_KEY
 
 4. **Run Development Server**
