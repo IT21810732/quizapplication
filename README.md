@@ -9,7 +9,6 @@ A full-stack web application where users can attempt quizzes. Each quiz has mult
 - **Frontend:** Next.js (App Router) + TypeScript + React  
 - **Backend/API:** Next.js API routes + Supabase  
 - **Database:** Supabase PostgreSQL  
-- **Authentication:** Supabase Auth (optional, implemented)  
 - **Algorithm:** Dynamic Programming (0/1 Knapsack for optimal question selection)
 
 ---
